@@ -1,0 +1,17 @@
+# Vivado generated directories
+*.cache/
+*.hw/
+*.sim/
+*.runs/
+*.ip_user_files/
+.Xil/
+
+# Specific Vivado folder patterns
+/*.cache/
+/*.hw/
+/*.sim/
+/*.runs/
+
+# Log and journal files
+*.jou
+*.log
