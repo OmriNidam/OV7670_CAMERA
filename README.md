@@ -48,11 +48,10 @@ docs/       -> Documentation and images
 
 ---
 ## Architecture
-![Architecture](docs/Architecture.png)
+![Architecture](docs/Architecture.PNG)
 
 ## Demo
-![Demo](docs/DEMO.png)
-
+![Demo](docs/DEMO.PNG)
 ---
 
 ## Author
